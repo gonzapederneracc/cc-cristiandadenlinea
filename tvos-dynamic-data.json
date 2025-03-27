@@ -1,0 +1,15 @@
+{
+  "backgroundImage": "https://yourserver.com/background.jpg",
+  "videos": [
+    {
+      "title": "Transmisión en Vivo",
+      "thumbnail": "https://yourserver.com/live_thumbnail.jpg",
+      "streamURL": "https://videodelivery.net/LIVE_VIDEO_ID/manifest/video.m3u8"
+    },
+    {
+      "title": "Reunión del Domingo",
+      "thumbnail": "https://yourserver.com/sunday_thumbnail.jpg",
+      "streamURL": "https://videodelivery.net/SUNDAY_VIDEO_ID/manifest/video.m3u8"
+    }
+  ]
+}
